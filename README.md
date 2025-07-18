@@ -49,8 +49,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github.com/Harshit-Bhan/Harshit-Bhan/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
 
 
